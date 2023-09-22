@@ -1,7 +1,7 @@
 # Snakes-Ladder-LLD
 low-level design for Snakes and Ladders Game
 
-We divide this project into two halves:
+We divide this project into two halves: 
    a. One of them being the models: Players, Snakes, Ladders, BoardGame.
    b. Other being services: It is responsible for the actual logic of the game. 
 
